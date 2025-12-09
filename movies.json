@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "97e7",
+      "title": "Wow",
+      "genre": "Haha",
+      "year": 2004
+    },
+    {
+      "id": "a75b",
+      "title": "wow",
+      "genre": "yo",
+      "year": 1001
+    },
+    {
+      "id": "aa30",
+      "title": "Ajendra",
+      "genre": "dhdh",
+      "year": 1000
+    },
+    {
+      "id": "c2e2",
+      "title": "<img src = 'x' onerror = alert('Hacked')>",
+      "genre": "edfds",
+      "year": 10000
+    }
+  ]
+}
