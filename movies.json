@@ -1,28 +1,23 @@
 {
   "movies": [
     {
-      "id": "97e7",
-      "title": "Wow",
-      "genre": "Haha",
+      "id": "1",
+      "title": "Titanic",
+      "genre": "Romance",
       "year": 2004
     },
     {
-      "id": "a75b",
-      "title": "wow",
-      "genre": "yo",
-      "year": 1001
+      "id": "2",
+      "title": "Inception",
+      "genre": "Suspense",
+      "year": 2010
     },
     {
-      "id": "aa30",
-      "title": "Ajendra",
-      "genre": "dhdh",
-      "year": 1000
+      "id": "3",
+      "title": "Oppenheimer",
+      "genre": "Biographical",
+      "year": 2024
     },
-    {
-      "id": "c2e2",
-      "title": "<img src = 'x' onerror = alert('Hacked')>",
-      "genre": "edfds",
-      "year": 10000
-    }
+   
   ]
 }
